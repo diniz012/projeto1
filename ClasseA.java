@@ -2,3 +2,9 @@ ExemploClasseA
 ExemploClasseA
 ExemploClasseA
 ExemploClasseA
+
+
+MetadoA_AAAA
+MetadoA_AAAA
+MetadoA_AAAA
+MetadoA_AAAA
